@@ -1,3 +1,0 @@
-#Librerías necesarias
-ultralytics==8.2.66
-opencv-python==4.10.0.84
